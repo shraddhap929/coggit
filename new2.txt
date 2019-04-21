@@ -1,1 +1,2 @@
 this is 1st line new2 file.
+this is d 2nd line.
